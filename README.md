@@ -2,6 +2,12 @@
 
 Desafio 01 - Praticando os conceitos do React Native
 
+Abaixo algumas imagens finais do projeto:
+<br/>
+<br/>
+
+![imagem_2022-11-03_163655570-PhotoRoom](https://user-images.githubusercontent.com/78974230/199817896-e17374aa-712d-43b9-9f3b-44efea7e2f0c.png)
+
 Nesse desafio, foi desenvolvido uma aplicação de controle de tarefas no estilo **to-do list**, que contém as seguintes funcionalidades:
 
 - Adicionar uma nova tarefa
@@ -22,9 +28,3 @@ Para executar o projeto é necessario ter o node instalado e o ambiente android 
 O projeto foi feito utilizando expo.
 <br/>
 <br/>
-Abaixo algumas imagens finais do projeto:
-<br/>
-<br/>
-
-
-![imagem_2022-11-03_163655570-PhotoRoom](https://user-images.githubusercontent.com/78974230/199817896-e17374aa-712d-43b9-9f3b-44efea7e2f0c.png)
